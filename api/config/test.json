@@ -1,0 +1,15 @@
+{
+    "App": {
+        "resources": {
+            "location": {
+                "apiToken": "test-token"
+            }
+        },
+        "database": {
+            "mongoUrl": "mongodb://localhost:27017/mystore-test"
+        },
+        "logger": {
+            "enabled": false
+        }
+    }
+}
